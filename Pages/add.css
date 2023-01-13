@@ -1,0 +1,11 @@
+.Add button{
+    background-color: rgb(183, 241, 175);
+    width: 98px;
+    height: 26px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.element input{
+    width: 300px;
+    height: 40px;
+}

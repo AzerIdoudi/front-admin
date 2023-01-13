@@ -1,0 +1,45 @@
+
+.title h1{
+    color: black;
+}
+.element p{
+    color: black;
+}
+.element{
+    padding: 5px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    border-width: 1px;
+    align-items: center;
+}
+.nameE{
+    color: var(--text-color);
+    font-size: 40px;
+}
+.av{
+
+    background-color: rgb(0, 255, 13);
+    width: 98px;
+    height: 26px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px ;
+}
+.av h1{
+    font-size: 16px;
+}
+.request button{
+    background-color: rgb(83, 131, 170);
+    width: 98px;
+    height: 26px;
+    border-radius: 20px;
+    cursor: pointer;    
+}
+.time input{
+    width: 98px;
+    height: 26px;
+}

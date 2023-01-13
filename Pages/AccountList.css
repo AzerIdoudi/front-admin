@@ -1,0 +1,37 @@
+
+.title h1{
+    color: black;
+}
+.element p{
+    color: black;
+}
+.element{
+    padding: 5px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    border-width: 1px;
+    align-items: center;
+}
+.accId h1{
+    color: black;
+}
+.nameE{
+    color: var(--text-color);
+    font-size: 40px;
+}
+.decline button{
+    background-color: rgb(170, 83, 83);
+    width: 98px;
+    height: 26px;
+    border-radius: 20px;
+    cursor: pointer;    
+}
+.modify button{
+    background-color: rgb(83, 170, 163);
+    width: 98px;
+    height: 26px;
+    border-radius: 20px;
+    cursor: pointer;    
+}

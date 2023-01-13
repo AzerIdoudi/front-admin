@@ -1,0 +1,86 @@
+
+.c1{
+    position: relative;
+    background-color: var(--c1);
+    width: 350px;
+    height: 250px;
+    padding-left: 50px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.c2{
+    position: relative;
+    background-color: var(--c2);
+    width: 350px;
+    height: 250px;
+    padding-left: 50px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.c3{
+    position: relative;
+    background-color: var(--c3);
+    width: 350px;
+    height: 250px;
+    padding-left: 50px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.c4{
+    position: relative;
+    background-color: var(--c4);
+    width: 350px;
+    height: 250px;
+    padding-left: 50px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.cards i{
+    position: relative;
+    font-size: 250px;
+    left: -150px;
+    top: 40px;
+    color: rgb(0, 0, 0);
+    opacity: 20%;
+
+}
+.cards{
+    padding: 50px;
+    grid-gap: 50px;
+    position:relative;
+    display:flex;
+    flex-direction: row;
+}
+.cards p{
+    font-size: 100px;
+    position: relative;
+    top: -250px;
+    color: rgb(255, 255, 255);
+}
+.cards .par  {
+    font-size: 30px ;
+    position: absolute;
+    top: 170px;
+    left: 70px;
+    color:rgb(0, 0, 0);
+}
+.list{
+    overflow: scroll;
+    border-radius: 20px;
+    width: 1550px;
+    height: 500px;
+    margin-left: 50px;
+}
+.list::-webkit-scrollbar {
+    display: none;
+}
+.Reserved{
+    overflow: scroll;
+    border-radius: 20px;
+    width: 1550px;
+    height: 500px;
+    margin-left: 50px;
+}
+.Reserved::-webkit-scrollbar {
+    display: none;
+}
